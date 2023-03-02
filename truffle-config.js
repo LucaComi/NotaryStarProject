@@ -82,7 +82,6 @@ module.exports = {
       },
       network_id: '5',
       confirmations: 2, // # of confirmations to wait between deployments. (default: 0)
-      from: "0x21fF409010fb499C8B966996F368bAD404D1425f",
     },
 
     // Useful for private networks
