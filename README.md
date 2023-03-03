@@ -12,5 +12,5 @@ ComiStar
 CSR
 
 # Token Address - Goerli network
-The contract has been deployed on the Goerli network
+The contract has been deployed on the Goerli network at the following address - 
 0xC66A7619690D0C518680D4f6262F007E528773c5
