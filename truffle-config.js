@@ -81,7 +81,8 @@ module.exports = {
         return new HDWalletProvider(mnemonic, `https://goerli.infura.io/v3/${infuraKey}`)
       },
       network_id: '5',
-      confirmations: 2, // # of confirmations to wait between deployments. (default: 0)
+      // gas: 4465030,        // goerli has a lower block limit than mainnet
+      // gasPrice: 144953208867
     },
 
     // Useful for private networks
